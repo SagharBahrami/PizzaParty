@@ -10,11 +10,8 @@ import android.widget.RadioGroup
 /**
  * A group of *Saghar Bahrami*.
  *
- * This class helps the user determine how many pizzas are needed to feed a group of hungry party-goers.
- *
- * @param T the type of a member in this group.
- * @property name the name of this group.
- * @constructor Creates an empty group.
+ * This class helps the user determine how many pizzas are needed
+ * to feed a group of hungry party-goers.
  */
 
 const val SLICES_PER_PIZZA = 8
